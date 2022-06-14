@@ -1,5 +1,5 @@
 ### Josh Anibal's Github Profile
-![banner](https://raw.githubusercontent.com/joanibal/joanibal/main/cover_photo.png)
+![banner](https://raw.githubusercontent.com/joanibal/joanibal/main/banner_photo.png)
 #### Bio
 I am an aerospace engineering Ph.D. student with experience in aircraft design and scientific computing.
 My research has focused on gradient-based shape optimization of heat exchangers using computational fluid dynamics (CFD) and finite element methods. I am also interested in nonlinear and linear solvers, high-performance computing, and next-generation aircraft design
