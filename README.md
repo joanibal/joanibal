@@ -1,5 +1,19 @@
-### Hi there 👋
+### Josh Anibal's Github Profile
+--------------------------------
 
+#### Bio
+I am an aerospace engineering Ph.D. student with experience in aircraft design and scientific computing.
+My research has focused on gradient-based shape optimization of heat exchangers using computational fluid dynamics (CFD) and finite element methods. I am also interested in nonlinear and linear solvers, high-performance computing, and next-generation aircraft design
+
+#### Other profiles
+For more information and preprints of my research papers see my [website](https://joanibal.github.io/publication/) or [ResearchGate](https://www.researchgate.net/profile/Joshua-Anibal/research)
+
+#### Contact info
+email: {my username}@umich.edu
+
+
+#### Stats
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanibal)
 <!--
 **joanibal/joanibal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
